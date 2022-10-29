@@ -1,3 +1,4 @@
 *.code-workspace
 *.csv
 *.ds_store
+*.h5
